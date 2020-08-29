@@ -6,7 +6,7 @@ import Link from 'next/link'
 import Date from '../components/date'
 
 export async function getStaticProps(){
-  const allPostsData = getSortedPostsData()
+  const allPostsData = await getSortedPostsData()
   return {
     props: {
       allPostsData
