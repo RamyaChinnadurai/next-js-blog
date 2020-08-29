@@ -1,3 +1,3 @@
-Build a blog by completing the course in the next js 
+Build a blog using next js started and deployed in vercel
 
 ![blog-image](/public/images/blog.png)
